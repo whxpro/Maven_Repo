@@ -51,6 +51,12 @@
     </dependency>
     <dependency>
       <groupId>androidx.lifecycle</groupId>
+      <artifactId>lifecycle-common-java8</artifactId>
+      <version>2.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.lifecycle</groupId>
       <artifactId>lifecycle-extensions</artifactId>
       <version>2.2.0</version>
       <scope>compile</scope>
