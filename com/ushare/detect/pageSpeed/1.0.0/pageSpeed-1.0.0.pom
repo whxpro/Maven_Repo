@@ -57,6 +57,12 @@
     </dependency>
     <dependency>
       <groupId>androidx.lifecycle</groupId>
+      <artifactId>lifecycle-extensions</artifactId>
+      <version>2.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.lifecycle</groupId>
       <artifactId>lifecycle-viewmodel-ktx</artifactId>
       <version>2.2.0</version>
       <scope>compile</scope>
